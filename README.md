@@ -13,7 +13,9 @@ Although my Chulbum is just less than 15 minutes, you can make your own a thousa
 
 ## Listen
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/908397286&color=%23223445&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+Listen the chulbum on SoundCloud: https://soundcloud.com/paranoid2droid/sets/wheniamkingyouwillbefirstagain
+
+(you can actually go to listen it because it is just 13'54'' long hahaha)
 
 ## Instruction
 
