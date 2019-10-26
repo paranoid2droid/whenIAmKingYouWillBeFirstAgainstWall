@@ -31,3 +31,5 @@ Listen the chulbum on SoundCloud: https://soundcloud.com/paranoid2droid/sets/whe
 * Chuck and MiniAudicle: https://chuck.cs.princeton.edu/
 
 * The original "FFTFindModes.ck" ,"ModalResynth.ck", and "FormantVoice.ck" were Perry R. Cook: https://www.cs.princeton.edu/~prc/
+
+* The audio samples used in the projects is materials in this MOOC on programming music with ChucK: https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info
