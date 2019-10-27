@@ -1,4 +1,4 @@
-# ParanoidChorus
+# whenIAmKingYouWillBeFirstAgainstWall
 
 An Open-source Music Album Based on ChucK
 
