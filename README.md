@@ -4,7 +4,7 @@ An Open-source Music Album Based on ChucK
 
 (for which I call it a "Chulbum")
 
-![cover](wheniamkingyouwillbefirstagianstwall.png)
+![cover](wheniamkingyouwillbefirstagainstwall.png)
 
 --------
 
