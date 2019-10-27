@@ -4,6 +4,10 @@ An Open-source Music Album Based on ChucK
 
 (for which I call it a "Chulbum")
 
+![cover](wheniamkingyouwillbefirstagianstwall.png)
+
+--------
+
 ## Insights
 
 This is an open-source album based on ChucK.
@@ -14,6 +18,8 @@ Although my Chulbum is just less than 15 minutes, you can make your own a thousa
 ## Listen
 
 Listen the chulbum on SoundCloud: https://soundcloud.com/paranoid2droid/sets/wheniamkingyouwillbefirstagain
+
+Or on Bandcamp: https://theartifactsofripples.bandcamp.com/album/wheniamkingyouwillbefirstagainstwall
 
 (you can actually go to listen it because it is just 13'54'' long hahaha)
 
